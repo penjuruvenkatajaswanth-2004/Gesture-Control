@@ -2,13 +2,13 @@
 
 Control your computer games with hand gestures using Python, OpenCV, and MediaPipe. 
 
-| 🖐️ **Fingers Shown**     | 🕹️ **Action** | 🎮 **Game Control Key** |
+|  Fingers Shown            | Action         | Game Control Key        |
 | ------------------------- | -------------- | ----------------------- |
-| ☝️ 1 Finger               | Go Straight    | `W`                     |
-| ✌️ 2 Fingers              | Move Right     | `→`                     |
-| 🤟 3 Fingers              | Move Left      | `←`                     |
-| ✋ 4 Fingers               | Roll           | `↓`                     |
-| 🖐️ 5 Fingers (Full Hand) | Jump           | `↑`                     |
+| ☝️ 1 Finger              | Go Straight    | `W`                     |
+| ✌️ 2 Fingers             | Move Right     | `→`                     |
+| 🤟 3 Fingers             | Move Left      | `←`                     |
+| ✋ 4 Fingers             | Roll           | `↓`                     |
+| 🖐️ 5 Fingers             | Jump           | `↑`                     |
 
 
 ---
@@ -73,11 +73,7 @@ Gesture-Control/
 
 ---
 
-## 📹 Demo
 
-*Add GIFs or screenshots here to showcase functionality.*
-
----
 
 ## ✅ Requirements
 
